@@ -51,7 +51,7 @@ body {
     background: linear-gradient(0deg, transparent, #45f3ff, #45f3ff);
     transform-origin: bottom right;
     animation: animate 6s linear infinite;
-      animation-delay: 0s;
+    animation-delay: 0s;
     animation-delay: -3s;
      
 }
@@ -151,7 +151,7 @@ body {
 
 .link a {
     margin: 10px 0;
-    font-size: 0.75em;
+    font-size: 1em;
     color: #8f8f8f;
     text-decoration: none;
 }

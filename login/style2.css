@@ -20,9 +20,14 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.contenedor .titulo2 {
-    padding: 27.5px 0px;
-    font-family: 'Courier New', Courier, monospace;
+.contenedor .titulo h1 {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.contenedor .titulo h4 {
+    margin-left: 33%;
+    width: 100%;
 }
 
 .cabezera {
